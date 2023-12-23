@@ -22,6 +22,9 @@ Contains\
 
 ![alt text](./assets/images/screenshot.gif)
 
+
+## Deployed at https://petemaynard.github.io/Password_Generator/
+
 ## Credits
 
 Created entirely by Pete Maynard.
