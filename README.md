@@ -25,6 +25,8 @@ Contains\
 
 ## Deployed at https://petemaynard.github.io/Password_Generator/
 
+## Repository at https://github.com/petemaynard/Password_Generator
+
 ## Credits
 
 Created entirely by Pete Maynard.
